@@ -1,0 +1,3 @@
+.app { max-width: 720px; margin: 0 auto; padding: 2rem; text-align: center; }
+.card { padding: 1rem 1.5rem; border: 1px solid #ccc; border-radius: 8px; }
+.error { color: #c0392b; }
